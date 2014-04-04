@@ -1,0 +1,130 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+
+
+##############################################
+#qq
+0.0.0.0 btrace.qq.com
+0.0.0.0 c.isdspeed.qq.com
+0.0.0.0 pingjs.qq.com
+0.0.0.0 pingtcss.qq.com
+0.0.0.0 tajs.qq.com
+0.0.0.0 trace.qq.com
+
+##############################################
+#baidu
+0.0.0.0 cbjs.baidu.com
+0.0.0.0 cbjslog.baidu.com
+0.0.0.0 cpro.baidu.com
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 nsclick.baidu.com
+0.0.0.0 pos.baidu.com
+0.0.0.0 static1.baifendian.com
+
+##############################################
+#google
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+##############################################
+#tanx
+0.0.0.0 p.tanx.com
+
+
+##############################################
+#clicki
+0.0.0.0 www.clicki.cn
+
+##############################################
+#quantserve
+0.0.0.0 edge.quantserve.com
+0.0.0.0 pixel.quantserve.com
+
+##############################################
+#tumblr
+0.0.0.0 www.tumblr.com
+
+##############################################
+#yahoo
+0.0.0.0 nol.yahoo.com
+
+##############################################
+#alimama
+0.0.0.0 a.alimama.cn
+
+
+##############################################
+#taobao
+0.0.0.0 acookie.taobao.com
+0.0.0.0 g.click.taobao.com
+
+##############################################
+#sina
+0.0.0.0 hits.sinajs.cn
+0.0.0.0 rs.sinajs.cn
+0.0.0.0 tjs.sjs.sinajs.cn
+
+
+##############################################
+#cnzz
+0.0.0.0 am1.adm.cnzz.net
+0.0.0.0 c.cnzz.com
+0.0.0.0 hqs2.cnzz.com
+0.0.0.0 hzs11.cnzz.com
+0.0.0.0 hzvs2.cnzz.com
+0.0.0.0 s11.cnzz.com
+0.0.0.0 s20.cnzz.com
+0.0.0.0 s5.cnzz.com
+0.0.0.0 tongji.cnzz.com
+0.0.0.0 w.cnzz.com
+
+##############################################
+#qiyou
+0.0.0.0 r.qiyou.com
+
+
+##############################################
+#btyou
+0.0.0.0 p.btyou.com
+0.0.0.0 r.btyou.com
+
+##############################################
+#mediav
+0.0.0.0 material.mediav.com
+0.0.0.0 show.g.mediav.com
+0.0.0.0 static.mediav.com
+
+##############################################
+#bilibili
+0.0.0.0 dns-1226121.test.bilibili.cc
+0.0.0.0 stat.bilibili.cn
+##############################################
+#douban
+0.0.0.0 ad.douban.com
+0.0.0.0 erebor.douban.com
+
+##############################################
+#github
+0.0.0.0 collector.githubapp.com
+
+##############################################
+#other
+0.0.0.0 c1.keyrun.cn
+0.0.0.0 copy.ousns.com
+0.0.0.0 cp.gs307.com
+0.0.0.0 g.youyou234.com
+0.0.0.0 kwflvcdn.ggmm777.com
+0.0.0.0 s.00oo00.com
+0.0.0.0 u.xcy8.com
+0.0.0.0 ww202.onetad.com
