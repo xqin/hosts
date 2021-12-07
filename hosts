@@ -180,6 +180,7 @@
 
 ##############################################
 #baidu
+0.0.0.0 dup.baidustatic.com
 0.0.0.0 a.baidu.com
 0.0.0.0 ad.player.baidu.com
 0.0.0.0 adm.baidu.com
@@ -244,6 +245,7 @@
 0.0.0.0 dzl.baidu.com
 0.0.0.0 e.baidu.com
 0.0.0.0 eclick.baidu.com
+0.0.0.0 cbjslog.baidu.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 entry.baidu.com
 0.0.0.0 ers.baidu.com
@@ -894,6 +896,7 @@
 0.0.0.0 s3m.mediav.com
 0.0.0.0 show.g.mediav.com
 0.0.0.0 ssxd.mediav.com
+0.0.0.0 material.mediav.com
 
 
 ##############################################
@@ -1072,6 +1075,7 @@
 0.0.0.0 *.jiawen88.com
 0.0.0.0 *.jinti.com
 0.0.0.0 *.jiuzhilan.com
+0.0.0.0 cdn.jiuzhilan.com
 0.0.0.0 *.ju33.com
 0.0.0.0 *.jugao.com
 0.0.0.0 *.juicyads.com
@@ -2191,7 +2195,6 @@
 0.0.0.0 dspimg.adsame.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
-0.0.0.0 dup.baidustatic.com
 0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 dvsend.china.com
 0.0.0.0 dvser.china.com
@@ -3333,6 +3336,7 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.appjiagu.com
 0.0.0.0 s.c-ctrip.com
+0.0.0.0 cdid.c-ctrip.com
 0.0.0.0 s.clkservice.youdao.com
 0.0.0.0 s.dlads.cn
 0.0.0.0 s.domob.cn
@@ -4339,3 +4343,19 @@
 0.0.0.0 zzy.mipujia.com
 0.0.0.0 zzy1.quyaoya.com
 0.0.0.0 zzzzz4.52896368.com
+0.0.0.0 pv.dakawm.cc
+
+# cnbeta
+0.0.0.0 a.vidoomy.com
+0.0.0.0 ad.lkqd.net
+0.0.0.0 ads-ap.v.ssp.yahoo.com
+0.0.0.0 ads.stickyadstv.com
+0.0.0.0 ads.vidoomy.com
+0.0.0.0 djl.duomai.com
+0.0.0.0 pixel-sync.sitescout.com
+0.0.0.0 stg.vidoomy.com
+0.0.0.0 t.lkqd.net
+0.0.0.0 trc-events.taboola.com
+0.0.0.0 v.lkqd.net
+0.0.0.0 x.bidswitch.net
+0.0.0.0 cdn.taboola.com.cn
